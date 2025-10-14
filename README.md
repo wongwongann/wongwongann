@@ -13,8 +13,8 @@
 
 🧭 **Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndra-dev&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndra-dev&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wongwongann-dev&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongwongann-dev&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
