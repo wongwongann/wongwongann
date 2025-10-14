@@ -14,11 +14,14 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Coding GIF">
 </p>
 
+<p>
 ## 🪶 About Me:
 - 🖋️ Writing clean code (I think)  
 - 🎧 Dancing Through Fantasies (Lime Cover) 
 - 🌱 Currently learning
 - 💡 Fun fact: Zani is mine 👍
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="200" alt="Coding GIF">
+</p>
 
 ---
 
