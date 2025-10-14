@@ -17,8 +17,8 @@
 ## 🪶 About Me:
 - 🖋️ Writing clean code (I think)  
 - 🎧 Dancing Through Fantasies (Lime Cover) 
-- 🌱 Currently learning new technologies
-- 💡 Fun fact: I love turning coffee into code
+- 🌱 Currently learning
+- 💡 Fun fact: Zani is mine 👍
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,php,python,git,github,vscode" alt="Tech Stack Icons">
 </p>
 
 ---
