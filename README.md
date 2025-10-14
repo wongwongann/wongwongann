@@ -14,18 +14,18 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Coding GIF">
 </p>
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="200" alt="Coding GIF" style="border-radius: 10px;">
-    <div style="text-align: left;">
-      <p>🪶 <b>About Me:</b></p>
-      <p>• 🖋️ Writing clean code (I think)</p>
-      <p>• 🎧 Dancing Through Fantasies (Lime Cover)</p>
-      <p>• 🌱 Currently learning</p>
-      <p>• 💡 Fun fact: Zani is mine 👍</p>
-    </div>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="200" alt="Coding GIF" style="margin-right: 20px;"/>
+
+  <div align="left">
+    <p>🪶 <b>About Me:</b></p>
+    <p>- 🖋️ Writing clean code (I think)</p>
+    <p>- 🎧 Dancing Through Fantasies (Lime Cover)</p>
+    <p>- 🌱 Currently learning</p>
+    <p>- 💡 Fun fact: Zani is mine 👍</p>
   </div>
 </div>
+
 
 
 ---
