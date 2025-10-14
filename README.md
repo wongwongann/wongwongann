@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Coding GIF">
 </p>
 
-<p>
+<p style="text-align: center;">
 ## 🪶 About Me:
 - 🖋️ Writing clean code (I think)  
 - 🎧 Dancing Through Fantasies (Lime Cover) 
