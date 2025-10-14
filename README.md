@@ -1,14 +1,13 @@
 # wongwongann-dev
 
-<h1 align="center">🖤 Hey, I’m Ndra 🖤</h1>
-<p align="center">Coding with coffee and moonlight ☕🌙</p>
+<h1 align="center">Enevyne</h1>
+<p align="center">What are you looking for?</p>
 
 ---
 
 🪶 **About me:**
-- 🖋️ Writing clean, meaningful code  
-- 🔮 Exploring dark-themed UI design  
-- 🎧 Always coding with lo-fi beats  
+- 🖋️ Writing clean code (I think)  
+- 🎧 Dancing Through Fantasies (Lime Cover) 
 
 ---
 
