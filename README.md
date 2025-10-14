@@ -15,31 +15,18 @@
 </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <p align="start">
-          🪶 <b>About Me:</b>  
-        </p>
-        <p align="start">
-        - 🖋️ Writing clean code (I think)  
-        </p>
-        <p align="start">
-          - 🎧 Dancing Through Fantasies (Lime Cover) 
-        </p>
-        <p align="start">
-          - 🌱 Currently learning
-        </p>
-        <p align="start">
-          - 💡 Fun fact: Zani is mine 👍
-        </p>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="200" alt="Coding GIF">
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="200" alt="Coding GIF" style="border-radius: 10px;">
+    <div style="text-align: left;">
+      <p>🪶 <b>About Me:</b></p>
+      <p>• 🖋️ Writing clean code (I think)</p>
+      <p>• 🎧 Dancing Through Fantasies (Lime Cover)</p>
+      <p>• 🌱 Currently learning</p>
+      <p>• 💡 Fun fact: Zani is mine 👍</p>
+    </div>
+  </div>
 </div>
+
 
 ---
 
