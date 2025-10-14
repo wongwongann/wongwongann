@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <p>
+  <p align="start">
   🪶 About Me:  
   </p>
   <p>
