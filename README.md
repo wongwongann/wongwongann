@@ -1,11 +1,11 @@
 <h1 align="center">
  <b> Enevyne</b> 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGY2eGFzNTU0YXAwMTc4MnF2cW55NDJ1NzJwMDF6aDltMGV3Ym04biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VeN4gbOONJsYQI7EgS/giphy.gif" width="100"/>
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=What+are+you+looking+for?;Just+Curious?;Woooow;" alt="Typing SVG" />
 </p>
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGY2eGFzNTU0YXAwMTc4MnF2cW55NDJ1NzJwMDF6aDltMGV3Ym04biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VeN4gbOONJsYQI7EgS/giphy.gif" width="200"/>
 
 ---
 
