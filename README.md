@@ -21,10 +21,6 @@
 
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongwongann&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
 <div>
   <h2 align="center">~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
       <div align="center">
@@ -49,6 +45,9 @@
 
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongwongann&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
 ## 🛠️ Tech Stack:
 <p align="center">
