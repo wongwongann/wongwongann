@@ -8,7 +8,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wongwongann&theme=tokyonight&hide_border=true"  width="50%" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=wongwongann&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&count_private=true" width="50%" alt="GitHub Streak">
+
   <img src="https://github-readme-stats.vercel.app/api?username=wongwongann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 </p>
 
