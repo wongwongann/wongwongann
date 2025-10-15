@@ -31,9 +31,9 @@
   <li>
    <b>Hobby:</b> Chess, Music, Coding
   </li>
-<br><br><br>
-</div>
 
+</div>
+<br><br><br>
 ---
 
 ## 🧭 Stats:
