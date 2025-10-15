@@ -73,9 +73,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXBvYmVtc3Z4NjlvdjAxZGUyZW9tbHBjZGpva2llOWV4eWw2bTNyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8PBqNlzr8VrqHmYkR3/giphy.gif" width="400" alt="Thank You GIF">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXBvYmVtc3Z4NjlvdjAxZGUyZW9tbHBjZGpva2llOWV4eWw2bTNyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8PBqNlzr8VrqHmYkR3/giphy.gif" 
+       alt="Cute animated GIF" 
+       width="400" />
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wongwongann&style=for-the-badge&color=2F81F7" alt="Profile Views">
