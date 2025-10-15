@@ -16,6 +16,7 @@
 
 <div align="center">
   <p align="start">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="400" alt="Coding GIF">
   🪶 About Me:  <br>
     - 🖋️ Writing clean code (I think)  <br>
     - 🎧 Dancing Through Fantasies (Lime Cover) <br>
