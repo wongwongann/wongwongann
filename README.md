@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Coding GIF">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="600" alt="Coding GIF">
 </p>
 
 <div align="center">
@@ -78,4 +78,4 @@
   <img src="https://komarev.com/ghpvc/?username=wongwongann&style=for-the-badge&color=2F81F7" alt="Profile Views">
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="200" alt="Coding GIF"> disamping about
+
