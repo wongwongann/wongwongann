@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://tenor.com/view/fox-fox-girl-gif-6680118806096799072" width="28">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3YxM3l5Y2pxYnJ6c2s1dndhOGY0eHdhM3Y0OHdneGszMXUzNW1reSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aRIzrvb4qN5t0X5cRz/giphy.gif" width="28">
   Enevyne
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
