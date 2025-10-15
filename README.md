@@ -45,11 +45,11 @@
 
 
 ---
+
+## 🛠️ Tech Stack:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wongwongann&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
-## 🛠️ Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,php,cs,unity,python,blender,git,github,vscode" alt="Tech Stack Icons">
 </p>
