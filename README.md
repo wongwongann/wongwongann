@@ -74,7 +74,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXBvYmVtc3Z4NjlvdjAxZGUyZW9tbHBjZGpva2llOWV4eWw2bTNyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8PBqNlzr8VrqHmYkR3/giphy.gif" alt="Cute animated GIF" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ0NHdieGUwcTRiaG93MHYxNm40dHB3Yjk3bTY4dDE3cHo1emJtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PBqNlzr8VrqHmYkR3/giphy.gif" alt="Cute animated GIF" width="300"/>
 </div>
 
 
