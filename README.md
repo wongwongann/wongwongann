@@ -76,7 +76,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXBvYmVtc3Z4NjlvdjAxZGUyZW9tbHBjZGpva2llOWV4eWw2bTNyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8PBqNlzr8VrqHmYkR3/giphy.gif" 
        alt="Cute animated GIF" 
-       width="400" />
+       width="300" />
 </div>
 
 
