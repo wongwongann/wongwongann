@@ -57,7 +57,7 @@
 
 ## 🎵 My Vibe:
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTJiMmg2aHh5cnQxOGp5cHdsYzNqamp4NDR1OG5lODZuM3dkZDZxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FeVg8ViEczcxG/giphy.gif)" width="400" alt="Music/Dancing GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTJiMmg2aHh5cnQxOGp5cHdsYzNqamp4NDR1OG5lODZuM3dkZDZxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FeVg8ViEczcxG/giphy.gif" width="400" alt="Music/Dancing GIF">
 </p>
 
 ---
