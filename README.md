@@ -17,7 +17,7 @@
 <div>
   <h2 align="center">~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="400" alt="Coding GIF">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="400" align="right" alt="Coding GIF">
   </div>
   <li>
     <b>Name:</b> Enevyne (Not RL name)
