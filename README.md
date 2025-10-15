@@ -16,11 +16,11 @@
 
 <div align="center">
   <p align="start">
-  🪶 About Me:  
-    - 🖋️ Writing clean code (I think)  
-    - 🎧 Dancing Through Fantasies (Lime Cover) 
-    - 🌱 Currently learning
-    - 💡 Fun fact: Zani is mine 👍
+  🪶 About Me:  <br>
+    - 🖋️ Writing clean code (I think)  <br>
+    - 🎧 Dancing Through Fantasies (Lime Cover) <br>
+    - 🌱 Currently learning<br>
+    - 💡 Fun fact: Zani is mine 👍<br>
   </p>
 </div>
 
