@@ -60,9 +60,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTJiMmg2aHh5cnQxOGp5cHdsYzNqamp4NDR1OG5lODZuM3dkZDZxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FeVg8ViEczcxG/giphy.gif" width="400" align="right" alt="Music/Dancing GIF">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGkzMTQzZzlzMXoybDBjMDdyMjd0ZHZ2bWxwOWlnazhsNzQ1cTF6eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZOGCyj0NW28gg/giphy.gif" width="400" align="left" alt="Music/Dancing GIF"> 
 </p>
-<br><br><br>
----
 
+---
+<br><br><br><br><br><br><br><br><br>
 ## 📫 Connect With Me:
 <p align="center">
   <a href="https://instagram.com/ndra.dark"><img src="https://img.shields.io/badge/Instagram-2b2d42?style=for-the-badge&logo=instagram&logoColor=white"/></a>
