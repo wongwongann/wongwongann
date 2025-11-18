@@ -26,7 +26,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdzMW55c3FreWhwbnIxYms4emNtOTNxMWlzMWc4aGxiZjlvcGd4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" width="300" align="right" alt="Coding GIF">
   </div>
   <li>
-    <b>Name:</b> Enevyne (Not RL name)
+    <b>Name:</b> Fer Indr
   </li>
   <li>
    <b>Fav Music:</b> Dancing Through Fantasies (Lime Cover) 
